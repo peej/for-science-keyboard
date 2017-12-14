@@ -87,7 +87,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory gerber-plate/))
+      (outputdirectory gerber/plate/))
   )
 
   (net 0 "")
