@@ -2,10 +2,8 @@ For Science is a 46 key ortholinear split keyboard PCB with a 3 key thumb cluste
 
 The goal of this project is to build a usable split keyboard with a PCB case within the 100x100mm cheap PCB size limit offered by some PCB manufactuers. Designed to be easy to build, it only supports serial communication over a TRRS cable and no LED support. The PCB is reversible, meaning that you need two of the same PCB to create a full keyboard.
 
+![Final assembled keyboard](https://i.imgur.com/fjnTkB1.jpg)
 ![PCB render from KiCad](./pcb.png)
-
-Documentation is a work in progress.
-
 ![PCBs in white and green](https://imgur.com/LX8n0xE.jpg)
 
 # Bill of Materials (BOM)
