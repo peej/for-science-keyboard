@@ -15,8 +15,8 @@ The goal of this project is to build a usable split keyboard with a PCB case wit
 * 2 PJ320D 3.5mm TRRS jacks.
 * TRRS cable and micro USB cable.
 * 2 plate PCBs and 2 base PCBs.
-* 8 2M standoffs
-* 16 2M screws
+* 8 M2 standoffs (15mm)
+* 16 M2 screws (6mm)
 * 46 MX compatible key caps.
 
 # Ordering PCBs
